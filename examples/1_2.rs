@@ -1,4 +1,4 @@
-/// Set 1 challenge 1: Convert hex to base64
+/// Set 1 challenge 2: Fixed XOR
 use data_encoding::HEXLOWER;
 
 use cryptopals::fixed_xor_mut;
